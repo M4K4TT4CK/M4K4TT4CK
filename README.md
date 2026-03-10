@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ... My Masters in CS focused on Computing Systems.
   
-- 🌱 I’m currently learning ... Advanced Operating Systems Concepts and Theories.
+- 🌱 I’m currently learning ... Advanced Operating Systems Concepts and Theories, Human Factors Engineering focused on Human Computer Interaction.
   
 - 👯 I’m looking to collaborate on ... any open-source Java, Python, C/C++ projects, or C# Game projects.
   
