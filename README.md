@@ -7,6 +7,6 @@
   
 - 👯 I’m looking to collaborate on any interesting projects.
   
-- 🤔 I’m looking for help with ... DSA study habits, networking with other people in the industry.
+- 🤔 I’m looking for help with ...sub <1Ghz communications, kubernetes, and Google Cloud Enterprise.
 
 
