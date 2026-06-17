@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Mike McMillin
 
 
-- 🔭 I’m currently working on DuskWire Solutions (incoming) and y Masters in CS focused on Computing Systems.
+- 🔭 I’m currently working on DuskWire Solutions (incoming) and my MS in CS focused on Computing Systems/Human-Computer Interaction.
   
 - 🌱 I’m currently learning advanced CS theories/applications and Computer/Electronics engineering.
   
